@@ -1,0 +1,15 @@
+deis-accounts-remove(1)
+=====================
+
+NAME
+----
+deis-accounts-remove - Remove an account from ~/.deis/client.json
+
+SYNOPSIS
+--------
+[verse]
+'deis accounts:remove <USERNAME>'
+
+DESCRIPTION
+-----------
+Removes an account from ~/.deis/client.json.

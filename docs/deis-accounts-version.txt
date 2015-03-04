@@ -1,0 +1,15 @@
+deis-accounts-version(1)
+========================
+
+NAME
+----
+deis-accounts-version - Display version information about this plugin
+
+SYNOPSIS
+--------
+[verse]
+'deis accounts:version'
+
+DESCRIPTION
+-----------
+The plugin's version is printed on standard output.

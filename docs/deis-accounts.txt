@@ -1,0 +1,18 @@
+deis-accounts(1)
+================
+
+NAME
+----
+deis-accounts - Helps use multiple accounts on Deis
+
+SYNOPSIS
+--------
+[verse]
+'deis accounts:<command> [args]'
+
+DESCRIPTION
+-----------
+deis-accounts is a plugin to the Deis Client, helping to manage multiple accounts across different
+clusters.
+
+You can learn more about individual deis-accounts commands with 'deis accounts:help <COMMAND>'.

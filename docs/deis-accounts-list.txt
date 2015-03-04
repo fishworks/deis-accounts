@@ -1,0 +1,15 @@
+deis-accounts-list(1)
+=====================
+
+NAME
+----
+deis-accounts-list - List all accounts
+
+SYNOPSIS
+--------
+[verse]
+'deis accounts:list'
+
+DESCRIPTION
+-----------
+List all accounts in ~/.deis/client.json.

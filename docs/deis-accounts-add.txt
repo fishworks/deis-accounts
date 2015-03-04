@@ -1,0 +1,15 @@
+deis-accounts-add(1)
+=====================
+
+NAME
+----
+deis-accounts-add - Add a new account
+
+SYNOPSIS
+--------
+[verse]
+'deis accounts:add'
+
+DESCRIPTION
+-----------
+Adds a new account to ~/.deis/client.json.

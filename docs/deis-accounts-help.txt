@@ -1,0 +1,22 @@
+deis-accounts-help(1)
+=====================
+
+NAME
+----
+deis-accounts-help - Display help information about 'deis accounts'
+
+SYNOPSIS
+--------
+[verse]
+'deis accounts:help [COMMAND]'
+
+DESCRIPTION
+-----------
+With no COMMAND given, the synopsis of the 'deis accounts' command is printed on standard output.
+
+If a COMMAND is given, a manual page for that command is brought up. The 'man' program is used by
+default for this purpose.
+
+To display the linkdeis:deis-accounts[1] man page, use 'deis accounts:help accounts'.
+
+This page can be displayed with 'deis accounts:help help'.

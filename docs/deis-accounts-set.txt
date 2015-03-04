@@ -1,0 +1,15 @@
+deis-accounts-set(1)
+=====================
+
+NAME
+----
+deis-accounts-set - Switch the active account.
+
+SYNOPSIS
+--------
+[verse]
+'deis accounts:set <USERNAME>'
+
+DESCRIPTION
+-----------
+Switches the active account to the specified user.
