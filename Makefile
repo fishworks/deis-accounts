@@ -45,7 +45,7 @@ test:
 	$(GOFMT) $(SRC_PACKAGES)
 	@$(GOFMT) $(SRC_PACKAGES) | read; if [ $$? == 0 ]; then echo "gofmt check failed."; exit 1; fi
 
-# displat output, then check
+# display output, then check
 	$(GOLINT) ./...
 	$(GOLINT) ./... | read; if [ $$? == 0 ]; then echo "golint check failed."; exit 1; fi
 
