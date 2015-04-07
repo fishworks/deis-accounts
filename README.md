@@ -4,6 +4,10 @@ deis-accounts is a plugin for the Deis Client to help manage multiple accounts.
 
 ## Installation
 
+deis-accounts requires the `asciidoc` and `xmlto` tools.
+
+    $ apt-get install asciidoc xmlto ||  # on Ubuntu Linux, or
+    > brew install asciidoc xmlto        # on Mac OS X with Homebrew
     $ make && sudo make install
 
 ## Usage
